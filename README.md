@@ -1,2 +1,2 @@
 # hello-world
-Just a test repository
+This entire repository contains files and branches necessary to developing a full understanding of git hub.
